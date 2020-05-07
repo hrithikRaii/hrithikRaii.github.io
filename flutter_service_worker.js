@@ -22,14 +22,14 @@ const RESOURCES = {
 "assets/Images/Python.jpg": "69abbabfc500bf7e0f8b4737fb09e379",
 "assets/Images/Python.svg": "f073c98660fc4290f4d3d8d8f7b1e046",
 "assets/Images/sql.png": "06f8964a0d38ab91aabbeae875e0a1ca",
-"assets/LICENSE": "a90f571005e62df7ad6652d9f9da4239",
+"assets/LICENSE": "a56fc09072cccb5d2966d8dd13486034",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "fa7d66245e09e8989b8e1928851b18a7",
 "icons/Icon-512.png": "fa7d66245e09e8989b8e1928851b18a7",
 "index.html": "3e31801c00bc84f38e0e63c93ce5fcb1",
 "/": "3e31801c00bc84f38e0e63c93ce5fcb1",
-"main.dart.js": "5909b0a63ad19756213c169d516e7506",
+"main.dart.js": "7f806659f14f859802f74ae8ce094a73",
 "manifest.json": "325befbdcf9df321eb99abf12191d799"
 };
 
