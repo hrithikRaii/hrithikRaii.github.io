@@ -21,7 +21,6 @@ const RESOURCES = {
 "assets/Images/Octocat.png": "ef468e275a2c13d0bc7156549261fde6",
 "assets/Images/Python.jpg": "69abbabfc500bf7e0f8b4737fb09e379",
 "assets/Images/Python.svg": "f073c98660fc4290f4d3d8d8f7b1e046",
-"assets/Images/ruk.jpeg": "5fb289e7ad3dd9e735536f80d90c36f6",
 "assets/Images/sql.png": "06f8964a0d38ab91aabbeae875e0a1ca",
 "assets/LICENSE": "a90f571005e62df7ad6652d9f9da4239",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
@@ -30,7 +29,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "3e31801c00bc84f38e0e63c93ce5fcb1",
 "/": "3e31801c00bc84f38e0e63c93ce5fcb1",
-"main.dart.js": "e3ae568e30c4ec78e30d97934e43e094",
+"main.dart.js": "5909b0a63ad19756213c169d516e7506",
 "manifest.json": "325befbdcf9df321eb99abf12191d799"
 };
 
